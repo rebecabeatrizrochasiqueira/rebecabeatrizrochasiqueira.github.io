@@ -15,7 +15,7 @@
   </header>
   
   <main>
-    <slot></slot> <!-- Este slot será substituído pelo conteúdo de cada página -->
+    <slot></slot> 
   </main>
   
   <footer>
